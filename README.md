@@ -1,4 +1,4 @@
-# Echo
+#
 
 # Sociālā komunikācijas aplikācija.
 - Savu kanālu / serveru veidošana.
